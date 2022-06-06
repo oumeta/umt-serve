@@ -1,0 +1,3 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/02 - 10:26:28.508	[31merror[0m	/react/umtserver/core/server.go:47	net.Listen error: listen tcp :9999: bind: address already in use
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/02 - 10:41:13.723	[31merror[0m	/react/umtserver/core/server.go:47	net.Listen error: listen tcp :9999: bind: address already in use
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/06 - 00:29:14.352	[31merror[0m	/react/umtserver/core/server.go:47	accept tcp [::]:9999: use of closed network connection

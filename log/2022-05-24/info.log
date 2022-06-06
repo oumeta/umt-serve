@@ -1,0 +1,18 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:35:58.856	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:35:58.858	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:35:58.858	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:35:58.858	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:35:58.861	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:80	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:35:58.861	[34minfo[0m	/lowcode/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:36:40.906	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:36:40.907	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:36:40.907	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:36:40.907	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:36:40.909	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:80	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:36:40.909	[34minfo[0m	/lowcode/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:38:08.772	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:38:08.774	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:38:08.774	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:38:08.774	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:38:08.776	[34minfo[0m	/lowcode/gin-vue-admin/server/initialize/router.go:80	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/24 - 10:38:08.776	[34minfo[0m	/lowcode/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}

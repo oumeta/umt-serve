@@ -1,0 +1,6 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/30 - 01:08:26.853	[31merror[0m	/react/umtserver/api/v1/system/sys_menu.go:143	删除失败!	{"error": "record not found"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/30 - 01:08:36.546	[31merror[0m	/react/umtserver/api/v1/system/sys_menu.go:143	删除失败!	{"error": "record not found"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/30 - 01:08:38.813	[31merror[0m	/react/umtserver/api/v1/system/sys_menu.go:143	删除失败!	{"error": "record not found"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/30 - 01:09:13.786	[31merror[0m	/react/umtserver/api/v1/system/sys_menu.go:143	删除失败!	{"error": "record not found"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/30 - 16:35:16.241	[31merror[0m	/react/umtserver/core/server.go:47	accept tcp [::]:9999: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 10:59:16.917	[31merror[0m	/react/umtserver/core/server.go:47	accept tcp [::]:9999: use of closed network connection

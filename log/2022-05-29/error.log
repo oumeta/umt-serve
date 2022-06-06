@@ -1,0 +1,8 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/29 - 18:35:35.028	[31merror[0m	/lowcode/gin-vue-admin/server/core/server.go:47	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/29 - 19:07:29.028	[31merror[0m	/lowcode/gin-vue-admin/server/core/server.go:47	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/29 - 19:07:36.177	[31merror[0m	/lowcode/gin-vue-admin/server/core/server.go:47	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/29 - 19:12:02.287	[31merror[0m	/lowcode/gin-vue-admin/server/core/server.go:47	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/29 - 19:57:44.207	[31merror[0m	/lowcode/gin-vue-admin/server/core/server.go:47	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/29 - 22:42:40.903	[31merror[0m	/lowcode/gin-vue-admin/server/core/server.go:47	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/29 - 22:42:47.639	[31merror[0m	/lowcode/gin-vue-admin/server/core/server.go:47	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2022/05/29 - 23:55:54.148	[31merror[0m	/lowcode/gin-vue-admin/server/core/server.go:47	accept tcp [::]:8888: use of closed network connection

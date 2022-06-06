@@ -1,0 +1,12 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 10:59:16.864	[34minfo[0m	/react/umtserver/initialize/gorm.go:61	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 10:59:16.915	[34minfo[0m	/react/umtserver/initialize/router.go:32	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 10:59:16.915	[34minfo[0m	/react/umtserver/initialize/router.go:36	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 10:59:16.915	[34minfo[0m	/react/umtserver/initialize/router.go:38	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 10:59:16.916	[34minfo[0m	/react/umtserver/initialize/router.go:80	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 10:59:16.916	[34minfo[0m	/react/umtserver/core/server.go:36	server run success on 	{"address": ":9999"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 16:41:12.919	[34minfo[0m	/react/umtserver/initialize/gorm.go:61	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 16:41:12.927	[34minfo[0m	/react/umtserver/initialize/router.go:32	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 16:41:12.927	[34minfo[0m	/react/umtserver/initialize/router.go:36	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 16:41:12.927	[34minfo[0m	/react/umtserver/initialize/router.go:38	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 16:41:12.928	[34minfo[0m	/react/umtserver/initialize/router.go:80	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/06/01 - 16:41:12.928	[34minfo[0m	/react/umtserver/core/server.go:36	server run success on 	{"address": ":9999"}
